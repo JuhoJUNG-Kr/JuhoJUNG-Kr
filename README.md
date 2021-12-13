@@ -9,7 +9,7 @@ I used to be a cook in a Michelin star restautrant 👨‍🍳
 
 Now I'm trying something new 🌱
 
-<header>💪Skills</header>
+<h3>💪Skills</h3>
 
 Platform & Language
 
