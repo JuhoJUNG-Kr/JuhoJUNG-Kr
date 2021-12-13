@@ -3,7 +3,7 @@
 <a href="https://www.google.com/" target="_blank"><img src="https://img.shields.io/badge/juhojung293@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
-👋 Hi THere! I'm Juho from Korea, currently living in France!
+👋 Hi There! I'm Juho from Korea, currently living in France!
 
 I used to be a cook in a Michelin star restautrant 👨‍🍳
 
