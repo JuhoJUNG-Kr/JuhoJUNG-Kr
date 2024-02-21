@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/juho-jung-3402b0228/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jooho293@gmail.com)](mailto:jooho293@gmail.com)
 
-<h3>Swift maaaaaaaaaaan<h3>
+
 
 
 <h3>💪Stacks</h3>
